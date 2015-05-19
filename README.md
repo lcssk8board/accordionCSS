@@ -1,2 +1,3 @@
-# mostused
-Codes most used on my day by day
+#Accordion CSS
+
+Make your accordion using only css! :D
